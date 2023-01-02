@@ -1,0 +1,36 @@
+.btn-group {
+  display: block;
+  margin: 50px auto;
+  text-align: center;
+   
+}
+body{
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
+.card{
+    background-color: rgba(217, 234, 238, 0.87);
+    margin: 0 auto;
+}
+.input-group{
+  width: 60%;
+  margin: 0 auto;
+}
+.list-group {
+  font-size: larger;
+
+}
+#city-input{
+  border-radius: 5px;
+  width: 350px;
+  font-size: medium;
+  padding: 3px;
+}
+#current{
+  padding: 5px;
+  background-color: rgb(146, 204, 206);
+  border-radius: 5px;
+  margin: 10px;
+  border-color:rgb(146, 204, 206);
+}
